@@ -10,7 +10,7 @@ It includes functions to **🚀 Launch**, **▶️ Start**, **⏹️ Stop**, and
 
 ## 🖼️ Architecture Diagram
 
-![AWS Lambda EC2 Automation Architecture](AWS%20Lambda%20EC2%20Automation.jpg)
+![AWS Lambda EC2 Automation Architecture](AWS-Lamdba-EC2-Automation.jpg)
 
 *The diagram above illustrates how Lambda functions interact with Amazon EC2 and EventBridge to automate lifecycle operations.*
 
